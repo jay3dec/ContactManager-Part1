@@ -1,0 +1,12 @@
+.example-card {
+  /*max-width: 400px;*/
+}
+
+.example-header-image {
+  background-image: url('../../assets/profile.jpg');
+  background-size: cover;
+}
+
+.listcontainer{
+	padding: 20px;
+}

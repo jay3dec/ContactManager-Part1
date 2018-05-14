@@ -1,0 +1,13 @@
+.container{
+	border : 1px solid #bca0a0;
+}
+.header{
+	height: 50px;
+	line-height: 50px;
+	background-color: #f6f1f1;
+}
+.header span{
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+	font-size: 24px;
+}
